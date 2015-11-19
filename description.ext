@@ -1,0 +1,3 @@
+enableDebugConsole = 1;
+
+#include "cfgFunctions.hpp"
